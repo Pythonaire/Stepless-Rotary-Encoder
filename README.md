@@ -2,7 +2,8 @@
 
 ## Description
 
-Stepless rotary encoder are more handy and convinced as typical steping rotary encoder. In this example a BOURNE PEC16-4020F-N0024 is used with a raspberry pi. If you use other Pins, make shure, you set the right pull resistors and RISUNG/FALLING events.
+Stepless rotary encoder are more handy and convinced as typical steping rotary encoder. In this example a BOURNE PEC16-4020F-N0024 is used with a raspberry pi. If you use other Pins, make sure, you set the right pull resistors and RISING/FALLING events.
+
 
 
 
